@@ -1,0 +1,125 @@
+{
+  "originUrl": "https://www.qia.qa",
+  "lastCrawled": "https://www.qia.qa/",
+  "urls": [
+    {
+      "url": "https://www.qia.qa/en/Pages/default.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/default-aspx",
+      "id": "dfb8af3f9e4f5a0f1565824365370f0a2d4757c9"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/defaultv2.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/defaultv2-aspx",
+      "id": "5928751a34d46e872154e9dc05935be38281aac3"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/Disclaimer.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/disclaimer-aspx",
+      "id": "0e5b2ca8e79dcfda4de0e1da091da99da138e02c"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/Fraud.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/fraud-aspx",
+      "id": "a04abac4b0c5ef4abb331f5df661ab5625bf9de1"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/Privacy.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/privacy-aspx",
+      "id": "9b9f596fc33c48850786f355617a4ddd22453262"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/QRPage.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/qrpage-aspx",
+      "id": "983bd9c5de1314b122f29ca4e7e4ca6bbe3d74fe"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/SearchResults.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/searchresults-aspx",
+      "id": "39c2434f7883fd18ee637bf0087859366e6bde8e"
+    },
+    {
+      "url": "https://www.qia.qa/en/Pages/Whistleblowing.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pages/whistleblowing-aspx",
+      "id": "bae4048985d15c5d016fcb53401e919b3d168c7e"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.qia.qa:443/Pages/VariationRoot.aspx",
+      "status": "302 Found Redirect: http://www.qia.qa/en"
+    },
+    {
+      "url": "https://www.qia.qa:443/Pages/VariationRoot.aspx",
+      "status": "302 Found Redirect: http://www.qia.qa/en"
+    },
+    {
+      "url": "http://www.qia.qa/en",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en"
+    },
+    {
+      "url": "http://www.qia.qa/en",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en"
+    },
+    {
+      "url": "http://www.qia.qa/en/Pages/default.aspx",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "http://www.qia.qa/en/Pages/default.aspx",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "http://www.qia.qa/en/Pages/default.aspx",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "http://www.qia.qa/en/Pages/default.aspx",
+      "status": "302 Object Moved Redirect: https://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.qia.qa:443/en",
+      "status": "302 Redirect Redirect: http://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.qia.qa:443/en",
+      "status": "302 Redirect Redirect: http://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.qia.qa/en",
+      "status": "302 Redirect Redirect: http://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.qia.qa/en",
+      "status": "302 Redirect Redirect: http://www.qia.qa/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.qia.qa:443/ar",
+      "status": "404 NOT FOUND"
+    },
+    {
+      "url": "https://www.qia.qa:443/ar",
+      "status": "404 NOT FOUND"
+    }
+  ]
+}
